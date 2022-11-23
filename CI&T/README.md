@@ -1,3 +1,5 @@
 ## Desafio individual Next Gen 2023 CI&T
 
-Testes realizados no dia 06/11/2022, aprovado para fase 2
+Conclui todas as questões no dia 06/11/2022 e fui aprovado para a próxima fase do programa.
+
+Os desafios exigiam conhecimento em lógica, algoritimos, arrays, loops, booleanos e outros tópicos.
